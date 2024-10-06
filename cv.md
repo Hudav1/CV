@@ -22,7 +22,7 @@ No work experience.
 
 #### Profiency and Skills
 
-- Git/GitHub, Markdown;
+- Git/GitHub(Basic), Markdown(Basic);
 - C# (Basic), SQL (Basic);
 - Godot engine, GDScript;
 - VS Code;
