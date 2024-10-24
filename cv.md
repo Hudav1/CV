@@ -1,4 +1,4 @@
-# Ilya
+# Ilya, Frontend Developer
 
 ---
 
@@ -6,6 +6,7 @@
 
 - telegram: [@IlyaHudav](https://t.me/IlyaHudav);
 - discord: hudavchik;
+- mail: hudavm1@gmail.com
 - github: [Hudav1](https://github.com/Hudav1).
 
 ---
@@ -22,20 +23,45 @@ No work experience.
 
 #### Profiency and Skills
 
-- Git/GitHub(Basic), Markdown(Basic);
-- C# (Basic), SQL (Basic);
-- Godot engine, GDScript;
+- Git/GitHub;
+- Markdown;
+- C# (Basic);
+- SQL (Basic);
 - VS Code;
-- HTML (Beginning learn).
+- HTML;
+- CSS;
+- Godot engine, GDScript.
+
+
 
 ---
 
 #### Code Example
 
 ```
-function twoDecimalPlaces(n) {
-  return Math.round(n*100)/100;
-}
+            profandskills-title. {
+              position: relative;
+            }
+            .profandskills-title::after {
+              position: absolute;
+              content: "";
+              height: 3px;
+              width: 1220px;
+              background-color: #000000;
+              left: 200px;
+              top: 470px;
+            }
+            .profandskills-list {
+              position: relative;
+              display: flex;
+              justify-content: space-around;
+              font-family: "Open Sans", sans-serif;
+              font-weight: 400;
+              font-size: 22px;
+              line-height: 65px;
+              padding-left: 300px;
+              padding-right: 300px;
+            }
 ```
 
 ---
@@ -49,7 +75,7 @@ function twoDecimalPlaces(n) {
 
 #### Education
 
-- 5 months ago educated from **"College of Infrastructure Technologies"** as programmer;
+- Educated from **"College of Infrastructure Technologies"** as programmer;
 - [freecodecamp](https://www.freecodecamp.org).
 
 ---
@@ -57,5 +83,4 @@ function twoDecimalPlaces(n) {
 ### Languages
 
 - English - **B2 Upper-intermediate** according to the online test at [EFSET.org](https://www.efset.org).
-  ![B2 Upper-intermediate](/123/EFSET%20B2.jpg)
 - Russian - native
